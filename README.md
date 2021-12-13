@@ -1,1 +1,1 @@
-# Metaverse Institute of Policy
+# Metaverse Policy Institute
