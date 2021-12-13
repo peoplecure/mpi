@@ -1,1 +1,1 @@
-# mpi
+# Metaverse Institute of Policy
