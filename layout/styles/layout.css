@@ -24,32 +24,19 @@ File: Layout CSS
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */
-#topbar{padding:20px 0; font-size:.8rem; text-transform:uppercase;}
+#topbar{padding:20px 0; font-size:.8rem;}
 
 #topbar ul li{display:inline-block; margin-right:15px;}
 #topbar ul li:last-child{margin-right:0; padding-right:0; border-right:none;}
 #topbar i{line-height:normal;}
 #topbar > div:nth-of-type(2) i{font-size:1rem;}
 
-/* Search Form */
-#topbar #searchform{position:relative; line-height:1; z-index:9999;}
-#topbar #searchform::after{display:block; height:18px; line-height:18px; padding:0; font-family:"Font Awesome\ 5 Free"; font-weight:900; font-size:1rem; content:"\f002"/* fa-search */;}
-#topbar #searchform:hover::after, #topbar #searchform button{cursor:pointer;}
-#topbar #searchform > div{position:absolute; top:18px; right:0; width:280px; visibility:hidden; opacity:0/* Required for transition effect */;}
-#topbar #searchform:hover > div{visibility:visible; opacity:1/* Required for transition effect */;}
-#topbar #searchform form{display:block; position:relative;}
-#topbar #searchform form *{border:none;}
-#topbar #searchform input{display:block; width:100%; height:36px; padding:8px 40px 8px 10px; font-size:1rem;}
-#topbar #searchform ::placeholder{text-transform:capitalize;}
-#topbar #searchform button{display:block; position:absolute; top:3px; right:2px; height:30px; font-size:16px; line-height:1;}
-
-
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
 #header{}
 
 #header #logo{margin:30px 0 0 0;}
-#header #logo h1{margin:0; padding:0; font-size:40px; text-transform:uppercase;}
+#header #logo h1{margin:0; padding:0; font-size:40px}
 
 
 /* Page Intro
@@ -203,8 +190,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 /* Top Navigation */
 #mainav{}
-#mainav ul{text-transform:uppercase;}
-#mainav ul ul{position:absolute; width:180px; text-transform:none; z-index:9999;}
+#mainav ul ul{position:absolute; width:225px; text-transform:none; z-index:9999;}
 #mainav ul ul ul{left:180px; top:0;}
 #mainav li{display:block; position:relative; float:left; margin:0; padding:0;}
 #mainav li:last-child{margin-right:0;}
@@ -323,7 +309,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Rows */
 .row0{color:#474747; background-color:#F4F4F4;}
-.row1{color:#FFFFFF; background-color:#FF3F4A;}
+.row1{color:#FFFFFF; background-color:#000000;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A5A6AA; background-color:#27282E;}
