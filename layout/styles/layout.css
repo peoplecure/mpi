@@ -324,9 +324,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Introblocks */
 #introblocks article{color:#474747; background-color:#FFFFFF; box-shadow:0px 0px 15px rgba(0,0,0,.1);}
-#introblocks article:hover, #introblocks .active{color:#FFFFFF; background-color:#1C1D21;}
+#introblocks article #introblocks .active{color:#FFFFFF; background-color:#1C1D21;}
 #introblocks article i{border-color:rgba(0,0,0,.1);}
-#introblocks article:hover i, #introblocks .active i{color:#FFFFFF; background-color:#FF3F4A;}
+#introblocks article i, #introblocks .active i{color:#FFFFFF; background-color:#FF3F4A;}
 
 
 /* Content Area */
