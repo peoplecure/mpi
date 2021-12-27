@@ -35,8 +35,8 @@ File: Layout CSS
 --------------------------------------------------------------------------------------------------------------- */
 #header{}
 
-#header #logo{margin:30px 0 0 0;}
-#header #logo h1{margin:0; padding:0; font-size:40px}
+#header #logo{margin:36px 0 0 0;}
+#header #logo h1{margin:0; padding:0; font-size:32px; font-weight: normal;}
 
 
 /* Page Intro
