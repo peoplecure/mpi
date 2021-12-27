@@ -36,8 +36,8 @@
 
 #pageintro article, #pageintro article p{display:block; max-width:75%; margin:0 auto; text-align:center;}
 #pageintro article p{max-width:65%; line-height:2rem;}
-#pageintro .upperheading{margin-bottom:20px; font-size:3rem;}
-#pageintro .heading{margin-bottom:50px; font-size:4rem;}
+#pageintro .upperheading{margin-bottom:30px; font-size:2.5rem;}
+#pageintro .heading{margin-bottom:30px; font-size:4rem;}
 #pageintro footer{margin-top:50px;}
 
 
