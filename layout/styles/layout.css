@@ -153,7 +153,7 @@
 
 /* Copyright
 --------------------------------------------------------------------------------------------------------------- */
-#copyright{padding:20px 0;}
+#copyright{padding:0px 0;}
 #copyright *{margin:0; padding:0;}
 
 
@@ -264,6 +264,7 @@ td{border-width:0 1px;}
 .faicon-dribble:hover{background-color:#EA4C89;}
 .faicon-facebook:hover{background-color:#3B5998;}
 .faicon-instagram:hover{background-color:#9F2B68;}
+.faicon-tiktok:hover{background-color:#808080;}
 .faicon-google-plus:hover{background-color:#DB4A39;}
 .faicon-linkedin:hover{background-color:#0E76A8;}
 .faicon-twitter:hover{background-color:#00ACEE;}
