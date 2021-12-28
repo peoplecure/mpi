@@ -32,12 +32,12 @@
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:200px 0 300px;}/* 300px => 100px for #introblocks negative margin */
+#pageintro{padding:100px 0 200px;}/* 300px => 100px for #introblocks negative margin */
 
 #pageintro article, #pageintro article p{display:block; max-width:75%; margin:0 auto; text-align:center;}
 #pageintro article p{max-width:65%; line-height:2rem;}
-#pageintro .upperheading{margin-bottom:30px; font-size:2.5rem; font-family: Georgia;}
 #pageintro .heading{margin-bottom:30px; font-size:4rem;}
+#pageintro .upperheading{margin-bottom:30px; font-size:2.5rem; font-family: Georgia;}
 #pageintro footer{margin-top:50px;}
 
 
